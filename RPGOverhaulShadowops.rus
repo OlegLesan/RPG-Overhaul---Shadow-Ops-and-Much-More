@@ -1,0 +1,11 @@
+[X2DownloadableContentInfo_RPGOverhaulShadowops]
+AntiCritSmokeEffectName="Стойкое благовоние"
+AntiCritSmokeEffectDesc="Дым защищает от критических попаданий."
+DodgeSmokeEffectName="Вихревой туман"
+DodgeSmokeEffectDesc="Дым увеличивает вероятность промаха или касательного попадания."
+FogWallEffectName="Стена тумана"
+FogWallEffectDesc="Дым обеспечивает защиту от атак с фланга."
+MindSmokeEffectName="Священное благовоние"
+MindSmokeEffectDesc="Дым защищает от психических воздействий."
+FortSmokeEffectName="Укрепляющее благовоние"
+FortSmokeEffectDesc="Дым защищает от урона огнем, ядом, кислотой и взрывами."
